@@ -1,15 +1,10 @@
 #!/usr/bin/python3
-
 """
 This module contains the "Base" class
 """
-
-
 import csv
 import json
 import turtle
-
-
 class Base:
     """A base class"""
     __nb_objects = 0
@@ -235,4 +230,4 @@ OB
             turtle.forward(square.y)
             turtle.right(90)
 
-  BOB      turtle.getscreen()._root.mainloop()
+OA  BOB      turtle.getscreen()._root.mainloop()
