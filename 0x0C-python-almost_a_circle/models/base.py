@@ -1,10 +1,15 @@
 #!/usr/bin/python3
+
 """
 This module contains the "Base" class
 """
+
+
 import csv
 import json
 import turtle
+
+
 class Base:
     """A base class"""
     __nb_objects = 0
